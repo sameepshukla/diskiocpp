@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>  // used for file I/O
-#include <string>   // used for string data type
+#include <string>   // used for string in cpp
 
 using namespace std;
 
